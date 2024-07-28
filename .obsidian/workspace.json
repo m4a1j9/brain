@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "46cc4f90fbd45544",
+    "type": "split",
+    "children": [
+      {
+        "id": "e422cbd66e4291d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8641dd699205fb81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z-Base/Мой Zettelkasten.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc9172239bbf43f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z-Base/Vim installation (W 10).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3002dbb210cf4435",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z-Base/iifa-monorepo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3c27ca74bdff5b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b42cef2c204291e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4b7df9c3ef14498",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e3316c04161b4634",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "113e2bfc1d2e4666",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b416bddb824849df",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "26b51d8675bb0c8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca5cc901edf971b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3db5397cc28952cb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Z-Base/Vim installation (W 10).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1ada3d3e17a4ab7f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Z-Base/Vim installation (W 10).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "839b0948ecbef2f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "e584ba928d0dc317",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Z-Base/Vim installation (W 10).md"
+              }
+            }
+          },
+          {
+            "id": "50e33a0ee09d6124",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
+    }
+  },
+  "active": "bc9172239bbf43f9",
+  "lastOpenFiles": [
+    "Z-Base/NX monorepo.md",
+    "Z-Base/iifa-monorepo.md",
+    "Z-Base/Инструкция.md",
+    "Z-Base/Vim installation (W 10).md",
+    "Z-Base/Мой Zettelkasten.md",
+    "Templates/0 New Note.md",
+    "Z-Base/00.md",
+    "Z-Base/Settings Dota2.md",
+    "Z-Base/Dota2 Tinker.md",
+    "Z-Base/Webstorm shortcuts.md",
+    "Daily/Tinker. Замена X на ё.md",
+    "Z-Base/00 dota2.md",
+    "Z-Base/00 Design.md",
+    "Z-Base/00 Config.md",
+    "Z-Base/00 Тестирование.md",
+    "Z-Base/00 Shortcuts.md",
+    "Z-Base/00 Producttivity.md",
+    "Z-Base/00 Ubuntu.md",
+    "Z-Base/00 Webstorm.md",
+    "Z-Base/Untitled.md",
+    "Z-Base/Untitled 1.md",
+    "Z-Base/Dota 2 Конфигурации.md",
+    "Z-Base/00 Hotkeys.md",
+    "Z-Base/Язык.md",
+    "Z-Base/00 Language.md",
+    "Z-Base/Facrorio brain base.md"
+  ]
+}

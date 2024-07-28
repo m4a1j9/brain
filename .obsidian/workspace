@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "46cc4f90fbd45544",
+    "type": "split",
+    "children": [
+      {
+        "id": "16415279e7dab7c8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Z-Base/Facrorio brain base.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3c27ca74bdff5b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b42cef2c204291e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4b7df9c3ef14498",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e3316c04161b4634",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#qt",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "113e2bfc1d2e4666",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "26b51d8675bb0c8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca5cc901edf971b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3db5397cc28952cb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Z-Base/Facrorio brain base.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1ada3d3e17a4ab7f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Z-Base/Facrorio brain base.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "839b0948ecbef2f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e584ba928d0dc317",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Z-Base/Facrorio brain base.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "active": "16415279e7dab7c8",
+  "lastOpenFiles": [
+    "Z-Base/Hotkeys ubuntu.md",
+    "Z-Base/00 Shortcuts.md",
+    "Z-Base/00 Hotkeys.md",
+    "Z-Base/00 Ubuntu.md",
+    "Z-Base/00 LinuksIDE.md",
+    "Templates/0 New Note.md",
+    "Z-Base/00 IDE.md",
+    "Z-Base/00 Webstorm.md",
+    "Z-Base/Obsidan get started.md",
+    "Z-Base/Settings Dota2.md"
+  ]
+}
