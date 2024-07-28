@@ -15,7 +15,7 @@ Tags: #work #lesson
 `npx create-nx-workspace@latest ${название монорепы} --preset=react-monorepo
 
 Запуск какого-либо из проектов:
-`nx ${название проекта} react-store
+`npx nx serve ${название проекта}
 
 Генерация нового приложения внутри монорепы:
 `nx g @nx/react:app ${название приложения} --directory=${расположение приложения относительно корня проекта, например: apps/app2} --bundler=vite
