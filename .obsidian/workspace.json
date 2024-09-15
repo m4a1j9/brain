@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-Base/Neovim commands.md",
+                "file": "Z-Base/EMSDK.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-Base/Neovim commands.md",
+                "file": "Z-Base/EMSDK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-Base/Neovim commands.md",
+                "file": "Z-Base/EMSDK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-Base/Neovim commands.md"
+                "file": "Z-Base/EMSDK.md"
               }
             }
           },
@@ -168,10 +168,10 @@
   },
   "active": "bc9172239bbf43f9",
   "lastOpenFiles": [
+    "Z-Base/Neovim commands.md",
     "Z-Base/EMSDK.md",
     "Z-Base/iifa-monorepo.md",
     "Z-Base/JS performance.md",
-    "Z-Base/Neovim commands.md",
     "Z-Base/Vim installation (W 10).md",
     "Z-Base/NX monorepo.md",
     "Z-Base/Инструкция.md",

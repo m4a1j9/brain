@@ -16,6 +16,14 @@ Tags: #1quest
 
 При проблемах 1 из опций помощи - посмотреть описание пакета AUR
 
+### Ошибки
+При предачи функций из JS в C при компиляции может возникнуть ошибка
+> wasm-ld: error: /tmp/emscripten_temp_y3rz5afo/exported_0.o: undefined symbol: curTime
+
+Для нас это ожидаемое поведение, так что ее можно проигнорировать, прописав флаг `-sERROR_ON_UNDEFINED_SYMBOLS=0`
+
+
+
 ### Zero-Links
 - [[00 Config]]
 - [[00 Linux]]
