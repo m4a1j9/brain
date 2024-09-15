@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-Base/EMSDK.md",
+                "file": "Z-Base/JS tips.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-Base/EMSDK.md",
+                "file": "Z-Base/JS tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-Base/EMSDK.md",
+                "file": "Z-Base/JS tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-Base/EMSDK.md"
+                "file": "Z-Base/JS tips.md"
               }
             }
           },
@@ -168,8 +168,9 @@
   },
   "active": "bc9172239bbf43f9",
   "lastOpenFiles": [
-    "Z-Base/Neovim commands.md",
     "Z-Base/EMSDK.md",
+    "Z-Base/JS tips.md",
+    "Z-Base/Neovim commands.md",
     "Z-Base/iifa-monorepo.md",
     "Z-Base/JS performance.md",
     "Z-Base/Vim installation (W 10).md",
@@ -192,7 +193,6 @@
     "Z-Base/00 Webstorm.md",
     "Z-Base/Untitled.md",
     "Z-Base/Untitled 1.md",
-    "Z-Base/Dota 2 Конфигурации.md",
-    "Z-Base/00 Hotkeys.md"
+    "Z-Base/Dota 2 Конфигурации.md"
   ]
 }
