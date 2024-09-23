@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-Base/Arch linux issues.md",
+                "file": "Z-Base/Arch linux tips.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-Base/Arch linux issues.md",
+                "file": "Z-Base/Arch linux tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-Base/Arch linux issues.md",
+                "file": "Z-Base/Arch linux tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-Base/Arch linux issues.md"
+                "file": "Z-Base/Arch linux tips.md"
               }
             }
           },
@@ -168,8 +168,8 @@
   },
   "active": "bc9172239bbf43f9",
   "lastOpenFiles": [
-    "Z-Base/JS tips.md",
     "Z-Base/Arch linux issues.md",
+    "Z-Base/JS tips.md",
     "Z-Base/EMSDK.md",
     "Z-Base/Neovim commands.md",
     "Z-Base/iifa-monorepo.md",
